@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CleanTjalle
 - 👀 I’m interested in LaZorsorting, programming, electrical Engineering and IPCs/PLcs by Beckhoff! 
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on Imageprocessing, ML and HMI Development.
 - ♥ Stay healthy, peaceful and free!
 
